@@ -21,7 +21,7 @@ I'm a university student passionate about the world of technology and enthusiast
 
 
 🌱 Learning Journey:
-I'm currently taking a course on React.js to get a better understanding of the library and front-end development as well. For Unity, I'm taking a math course to understand concepts such as matrices and vectors better.
+I'm currently taking a course on React.js to get a better understanding of front-end development. For Unity, I'm taking a math course to understand concepts such as matrices and vectors.
 
 📚 Education:
 Currently pursuing a degree in Fordham University with a focus on Computer Science.
