@@ -17,8 +17,7 @@ I'm a university student passionate about the world of technology and enthusiast
 - [MotorMatch](link): An IOS-based app that displays vehicle information to the user.
 - [DataNav](link): A Python GUI that displays server databases and tables.
 - [MPG](link): MPG is a Python miles-per-gallon calculator that has an integrated vehicle API.
-- [PyBrush](link): A Small Multiplayer game made in Unity using the language C#.
-
+- [PyBrush](link): A Python-based drawing application.
 
 🌱 Learning Journey:
 I'm currently taking a course on React.js to get a better understanding of front-end development. For Unity, I'm taking a math course to understand concepts such as matrices and vectors.
