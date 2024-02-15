@@ -11,7 +11,6 @@ I'm a university student passionate about the world of technology and enthusiast
 🚀 Projects:
 - [Portfolio Website](link): My personal website that looks into my projects, personal life, and interests.
 - [PNF](link): A Small Multiplayer game made in Unity using the language C#.
-- [EMSIFY](link): A website that shows the user's Spotify statistics.
 - [Rockno1](link): RockNo1 is a band website that displays pictures and demo tracks.
 - [PoolStack](link): PoolStack is a game queueing website for pool players.
 - [MotorMatch](link): An IOS-based app that displays vehicle information to the user.
