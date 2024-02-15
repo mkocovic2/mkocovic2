@@ -9,7 +9,7 @@ I'm a university student passionate about the world of technology and enthusiast
 - Experienced in working with modern web technologies, including HTML, CSS, JavaScript, and other back-end technologies.
 
 🚀 Projects:
-- [Portfolio Website]([link](https://michaelkocovic.000webhostapp.com/)): My personal website that looks into my projects, personal life, and interests.
+- [Portfolio Website](https://michaelkocovic.000webhostapp.com/): My personal website that looks into my projects, personal life, and interests.
 - [PNF](link): A Small Multiplayer game made in Unity using the language C#.
 - [Rockno1](link): RockNo1 is a band website that displays pictures and demo tracks.
 - [PoolStack](link): PoolStack is a game queueing website for pool players.
