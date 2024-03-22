@@ -2,7 +2,7 @@
 
 Hello, my name is Michael! 👋
 
-I'm a university student passionate about the world of technology and enthusiastic about creative solutions for real-world problems. My main focus is on full-stack development, where I enjoy combining front-end and back-end components to design user interfaces and websites.
+I'm a Fordham University student passionate about the world of technology. My main focus is on full-stack development, where I enjoy combining front-end and back-end components to design user interfaces and websites.
 
 💻 Tech Stack:
 - Proficient in C++ for building robust and efficient applications.
