@@ -19,7 +19,7 @@ I'm a university student passionate about the world of technology and enthusiast
 - [PyBrush](https://github.com/mkocovic2/Pybrush): A Python-based drawing application.
 
 🌱 Learning Journey:
-I'm currently taking a course on React.js to get a better understanding of front-end development. For Unity, I'm taking a math course to understand concepts such as matrices and vectors.
+I'm currently taking a course on React.js to get a better understanding of front-end development. I'm also taking a course on C# with the ASP.NET framework to expand my skills in back-end development.
 
 📚 Education:
-Currently pursuing a degree in Fordham University with a focus on Computer Science.
+Currently pursuing a degree in Fordham University with a focus on Computer Science and a minor in Cybersecurity.
