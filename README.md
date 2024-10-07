@@ -1,5 +1,3 @@
-![num1](https://github.com/mkocovic2/mkocovic2/assets/93215057/031dc1de-0755-4693-bcba-8fc5ab17b35e)
-
 Hello, my name is Michael! 👋
 
 I'm a Fordham University student passionate about the world of technology. My main focus is on full-stack development, where I enjoy combining front-end and back-end components to design user interfaces and websites.
