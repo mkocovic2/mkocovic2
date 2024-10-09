@@ -7,7 +7,6 @@ I'm a Fordham University student passionate about the world of technology. My ma
 - Experienced in working with modern web technologies, including HTML, CSS, JavaScript, and other back-end technologies.
 
 🚀 Projects:
-- [Portfolio Website](https://michaelkocovic.000webhostapp.com/): My personal website that looks into my projects, personal life, and interests.
 - [PNF](https://github.com/mkocovic2/PNF): A Small Multiplayer game made in Unity using the language C#.
 - [Rockno1](https://github.com/mkocovic2/RockNo1): RockNo1 is a band website that displays pictures and demo tracks.
 - [PoolStack](https://github.com/mkocovic2/PoolStack): PoolStack is a game queueing website for pool players.
