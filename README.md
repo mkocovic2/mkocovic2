@@ -1,22 +1,84 @@
-Hello, my name is Michael! 👋
 
-I'm a Fordham University student passionate about the world of technology. My main focus is on full-stack development, where I enjoy combining front-end and back-end components to design user interfaces and websites.
+## 𝙼𝚒𝚌𝚑𝚊𝚎𝚕 𝙺𝚘𝚌𝚘𝚟𝚒𝚌
 
-💻 Tech Stack:
-- Proficient in C++ for building robust and efficient applications.
-- Experienced in working with modern web technologies, including HTML, CSS, JavaScript, and other back-end technologies.
 
-🚀 Projects:
-- [PNF](https://github.com/mkocovic2/PNF): A Small Multiplayer game made in Unity using the language C#.
-- [Rockno1](https://github.com/mkocovic2/RockNo1): RockNo1 is a band website that displays pictures and demo tracks.
-- [PoolStack](https://github.com/mkocovic2/PoolStack): PoolStack is a game queueing website for pool players.
-- [MotorMatch](https://github.com/mkocovic2/MotorMatch): An IOS-based app that displays vehicle information to the user.
-- [DataNav](https://github.com/mkocovic2/DataNav): A Python GUI that displays server databases and tables.
-- [MPG](https://github.com/mkocovic2/MPG): MPG is a Python miles-per-gallon calculator that has an integrated vehicle API.
-- [PyBrush](https://github.com/mkocovic2/Pybrush): A Python-based drawing application.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=false&vCenter=true&width=435&lines=Computer+Science+Graduate+Student;DevOps+Intern;Backend+Developer;)](https://git.io/typing-svg)
 
-🌱 Learning Journey:
-I'm currently taking a course on React.js to get a better understanding of front-end development. I'm also taking a course on C# with the ASP.NET framework to expand my skills in back-end development.
+```css
+root:~$ whoami
+```
+> 👨‍💻 DevOps Intern at Fordham University, currently working with C#
 
-📚 Education:
-Currently pursuing a degree in Fordham University with a focus on Computer Science and a minor in Cybersecurity.
+> 📜 Currently pursuing a masters degree in Computer Science
+
+> Feel free to check out my projects and contributions here on GitHub. I’m always open to collaborating or discussing new ideas!
+```css
+root:~$ cat skills.txt
+```
+```yml
+Languages:
+  - C++              ████████░░  80%
+  - C#               ███████░░░  70%
+  - Java             ██████░░░░  60%    
+  - Python           ████░░░░░░  40%
+
+Frameworks & Tools:
+  - Spring Boot      [Learning]
+  - CUDA w/C++       [Learning]
+```
+
+```css
+root:~$ ls projects/
+```
+```scala
+📂 Featured Projects
+├── 📄 SudoCu/
+│   └── A full-stack Sudoku game developed by a collaborative team.
+├── 🎮 PNF/
+│   └── Multiplayer game crafted with Unity & C#
+├── 🎸 RockNo1/
+│   └── Band showcase website with media integration
+├── 🎱 PoolStack/
+│   └── Queue management system for pool players using Firebase
+├── 🚗 MotorMatch/
+│   └── iOS app for vehicle information lookup
+├── 📊 DataNav/
+│   └── Python GUI for database visualization and connection
+├── ⛽ MPG/
+│   └── Miles-per-gallon calculator with vehicle API and GUI
+└── 🎨 PyBrush/
+    └── Python-based drawing application
+```
+
+```css
+root:~$ cat education.txt
+```
+```yml
+🎓 Fordham University - Masters Degree
+  └── Master of Science in Computer Science
+
+🎓 Fordham University - Bachelor's Degree
+  └── Computer Science Major
+      └── Cybersecurity Minor
+```
+
+```css
+root:~$ cat current_status.txt
+```
+```go
+Currently {
+  learning: ["Spring Boot", "CUDA w/C++"]
+  exploring: ["Backend Development", "Network Protocols", OOP Practices"]
+  working_on: ["Project Manager utilizing a TUI", "Media Server API"]
+}
+```
+
+```css
+root:~$ contact --info
+```
+```yml
+📫 How to reach me:
+  └── michaelk2ny@gmail.com
+```
+
+---
