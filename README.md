@@ -24,15 +24,16 @@ root:~$ whoami
 root:~$ cat skills.txt
 ```
 ```yml
-Languages:
-  - C++              ████████░░  80%
-  - C#               ███████░░░  70%
-  - Java             ██████░░░░  60%    
-  - Python           ████░░░░░░  40%
+| Language  |   Proficiency   |
+|-----------|-----------------|
+| C++       | ████████░░  80% |
+| C#        | ███████░░░  70% |
+| Java      | ██████░░░░  60% |
+| Python    | ████░░░░░░  40% |
 
-Frameworks & Tools:
-  - Spring Boot      [Learning]
-  - CUDA w/C++       [Learning]
+Frameworks & Tools
+- Spring Boot - [Learning]
+- CUDA w/C++ - [Learning]
 ```
 
 ```css
