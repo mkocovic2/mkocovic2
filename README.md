@@ -32,6 +32,7 @@ root:~$ cat skills.txt
 | Python    | ████░░░░░░  40% |
 
 Frameworks & Tools
+- Kubernetes - [Learning]
 - Spring Boot - [Learning]
 - CUDA w/C++ - [Learning]
 ```
