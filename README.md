@@ -32,9 +32,8 @@ root:~$ cat skills.txt
 | Python    | ████░░░░░░  40% |
 
 Frameworks & Tools
-- Kubernetes - [Learning]
 - Spring Boot - [Learning]
-- CUDA w/C++ - [Learning]
+- SDL w/C++ - [Learning]
 ```
 
 ```css
@@ -64,7 +63,7 @@ root:~$ ls projects/
 root:~$ cat education.txt
 ```
 ```yml
-🎓 Fordham University - Masters Degree
+🎓 Fordham University - Masters Degree (2026)
   └── Master of Science in Computer Science
 
 🎓 Fordham University - Bachelor's Degree
@@ -77,9 +76,9 @@ root:~$ cat current_status.txt
 ```
 ```go
 Currently {
-  learning: ["Spring Boot", "CUDA w/C++"]
+  learning: ["Spring Boot", "SDL w/C++]
   exploring: ["Backend Development", "Network Protocols", "OOP Practices"]
-  working_on: ["Project Manager utilizing a TUI", "Media Server API"]
+  working_on: ["Project manager", "Media Server API"]
 }
 ```
 
