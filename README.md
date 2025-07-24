@@ -76,7 +76,7 @@ root:~$ cat current_status.txt
 ```
 ```go
 Currently {
-  learning: ["Spring Boot", "SDL w/C++]
+  learning: ["Spring Boot", "SDL w/C++"]
   exploring: ["Backend Development", "Network Protocols", "OOP Practices"]
   working_on: ["Project manager", "Media Server API"]
 }
