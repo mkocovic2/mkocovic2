@@ -15,8 +15,6 @@
 ```css
 root:~$ whoami
 ```
-> 👨‍💻 DevOps Intern at Fordham University, currently working with C#
-
 > 📜 Currently pursuing a masters degree in Computer Science
 
 > Feel free to check out my projects and contributions here on GitHub. I’m always open to collaborating or discussing new ideas!
