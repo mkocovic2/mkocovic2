@@ -12,9 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=false&vCenter=true&width=435&lines=Computer+Science+Graduate+Student;DevOps+Intern;Backend+Developer;)](https://git.io/typing-svg)
 
-```css
-root:~$ whoami
-```
 > 📜 Currently pursuing a masters degree in Computer Science
 
 > Feel free to check out my projects and contributions here on GitHub. I’m always open to collaborating or discussing new ideas!
