@@ -27,8 +27,8 @@ root:~$ cat skills.txt
 | Python    | ████░░░░░░  40% |
 
 Frameworks & Tools
-- Spring Boot - [Learning]
-- SDL w/C++ - [Learning]
+- Linear Algebra - [Learning]
+- AutoCAD API - [Learning]
 ```
 
 ```css
