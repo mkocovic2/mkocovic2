@@ -21,7 +21,7 @@ Applications developer specializing in AutoCAD automation and geometric modeling
 <div>
   <img src="chariot.png" width="140" align="left">
 
-  <h3>Chariot</h3>
+  <h3>Chariot - Live CTL Renderer</h3>
 
   <p>
     Web-based IDE and development platform for CTL. Provides an intuitive
