@@ -2,7 +2,7 @@
 
 Applications developer specializing in AutoCAD automation and geometric modeling tools.
 
-### Current Projects
+### Active Projects
 <div>
   <img src="CTL.png" width="140" align="left">
 
