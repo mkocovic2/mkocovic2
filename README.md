@@ -52,6 +52,8 @@ Applications developer specializing in AutoCAD automation and geometric modeling
   <br clear="left">
 </div>
 
+> Build. Forever.
+
 - **Languages:** C#, C++
 - **Tools & Platforms:** AutoCAD, Visual Studio, .NET
 - **Specialization:** CAD automation, geometric modeling, DSL design
